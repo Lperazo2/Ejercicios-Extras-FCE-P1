@@ -1,6 +1,5 @@
 # Mediciones en NGSPICE
-
-![ ] https://github.com/Lperazo2/Fundamentos-de-Circuitos-Electricos/blob/78432de57946103bcbbefe76c5c894c6d6bdce00/1.PNG
+![](https://github.com/Lperazo2/Fundamentos-de-Circuitos-Electricos/blob/754398f438566d25f4b7809930ac0c199aef01ba/1.PNG)
 
 1.	Tema
 Diseño de circuitos mixtos y toma de mediciones en NGSPICE
