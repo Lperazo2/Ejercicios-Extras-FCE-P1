@@ -1,4 +1,4 @@
-#mediciones en NGSPICE
+#medicionesenNGSPICE
 
 ! [ ]_(https://github.com/Lperazo2/Fundamentos-de-Circuitos-Electricos/blob/78432de57946103bcbbefe76c5c894c6d6bdce00/1.PNG)
 1.	Tema
