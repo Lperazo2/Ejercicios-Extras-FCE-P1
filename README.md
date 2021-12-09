@@ -123,19 +123,19 @@ Representamos el circuito en Multisim
                             
                                                
 # Tema: 
-# Creación de una Aplicación móvil en App inventor para la resolución de ejercicios serie, paralelo y ley de ohm
+# Creación de una Aplicación móvil en App inventor para la resolución de ejercicios en serie, paralelo y ley de ohm
 
 2. Objetivo General
-* Conocer la herramienta de desarrollo de aplicaciones virtual MIT APP INVENTOR y desarrollar en ella una aplicacion que permita la resolucion de un circuito eléctrico en serie y en paralelo, el programa debe otorgara todos los datos de corrientes y caidas de voltajes presentes en cada circuito asi como tambien ayude a resolver problemas relacionados con la Ley de Ohm, el presente trabajo se realizara mediante la búsqueda de información autónoma y los conocimientos adquiridos en el salón de clases, para de esta manera fortalecer los conocimientos y familiarizarnos con una nueva herramienta para crear aplicaciones y resolver circuitos eléctricos simples.
+* Conocer la herramienta de desarrollo de aplicaciones virtual MIT APP INVENTOR y desarrollar en ella una aplicación que permita la resolución de un circuito eléctrico en serie y en paralelo, el programa debe otorgara todos los datos de corrientes y caidas de voltajes presentes en cada circuito, asi como también ayude a resolver problemas relacionados con la Ley de Ohm, el presente trabajo se realizará mediante la búsqueda de información autónoma y los conocimientos adquiridos en el salón de clases, para de esta manera fortalecer los conocimientos y familiarizarnos con una nueva herramienta para crear aplicaciones y resolver circuitos eléctricos simples.
 
-3. Objetivo específico:
+3. Objetivos específicos:
 * Ingresar a MIT Inventor y familiarizarnos con la interfaz
-* Diseñar un apartado sencillo para que el usuario pueda manejarlo de manera agil.
+* Diseñar un apartado sencillo para que el usuario pueda manejarlo de manera ágil.
 * Generar un APK y compartirlo en github
 
 3.	Marco teórico:
 
-En la página oficial de MIT APP INVENTOR, se nos indica que esta es una pagina de sotfware libre en el cual se nos permite crear una gran variedad de aplicaciones compatibles con tispositivos andoid, al ser de código abierto el proyecto de crear una app para resolver circuitos eléctricos en serie y paralelo no presentara ninguna dificultad y se permitira al programador emitir todos los datos que se pueden extraer de un circuito electrico o de las leyes de OHM.
+En la página oficial de MIT APP INVENTOR, se nos indica que esta es una página de sotfware libre en el cual se nos permite crear una gran variedad de aplicaciones compatibles con dispositivos android, al ser de código abierto el proyecto de crear una app para resolver circuitos eléctricos en serie y paralelo no representara ninguna dificultad y se permitirá al programador emitir todos los datos que se pueden extraer de un circuito eláctrico o de las leyes de Ohm.
 
 4.	Datos a obtener:
 
@@ -143,11 +143,11 @@ En la página oficial de MIT APP INVENTOR, se nos indica que esta es una pagina 
 * Corriente de todas las mallas presentes en los circuitos
 * Resolver los diferentes problemas que pueden llegar a darse en la Ley de Ohm
  
-5.	Descripción de los apartados de la aplicacion 
+5.	Descripción de los apartados de la aplicación 
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/serie_1.png)
 
-Al ser un circuito en serie de con tres resistencias los datos a obtener son:
+Al ser un circuito en serie con tres resistencias los datos a obtener son:
 * It = Intensidad total
 * VR1 = caidad de voltaje en la R1
 * VR2 = caidad de voltaje en la R2
@@ -164,14 +164,14 @@ Al ser un circuito en paralelo con tres resistencias los datos a obtener son:
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/Ley_Ohm.png)
 
-La ley de Ohm permite obtener la resistencia, el voltaje o la corriente de la siguiente manera:
+La ley de Ohm permite obtener: la resistencia, el voltaje o la corriente de la siguiente manera:
 * Conociendo el voltaje y la intencidad podemos determinar la resistecia
 * Conociendo el voltaje y la resistencia podemos determinar la intensidad 
 * Conociendo la resistencia y la intencidad podemos determinar el voltaje  
 
-6.- Desarrollo de la Aplicacion
+6.- Desarrollo de la Aplicación
 
-# Interfas de inicio
+# Interfaz de inicio
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/31.PNG)
 
@@ -195,7 +195,7 @@ La ley de Ohm permite obtener la resistencia, el voltaje o la corriente de la si
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/38.PNG)
 
-7.	Conclucion
-* La aplicacion desarrollada cumple con lo planeado, su ejecucion en un dispositivo android es correcta y los resultados obtenidos por medio de la misma no difieren de la realidad, podemos asegurar que la aplicacion funciona y es fiable.
+7.	Conclución
+* La aplicación desarrollada cumple con lo planeado, su ejecución en un dispositivo android es correcta y los resultados obtenidos por medio de la misma no difieren de la realidad, podemos asegurar que la aplicación funciona y es fiable.
 
 
