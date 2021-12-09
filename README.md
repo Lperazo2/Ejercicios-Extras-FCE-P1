@@ -145,7 +145,7 @@ En la página oficial de MIT APP INVENTOR, se nos indica que esta es una pagina 
  
 5.	Descripción de los apartados de la aplicacion 
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/serie_1.png)
 
 Al ser un circuito en serie de con tres resistencias los datos a obtener son:
 * It = Intensidad total
@@ -153,7 +153,7 @@ Al ser un circuito en serie de con tres resistencias los datos a obtener son:
 * VR2 = caidad de voltaje en la R2
 * VR3 = caidad de voltaje en la R3
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/Paralelo_1.png)
 
 Al ser un circuito en paralelo con tres resistencias los datos a obtener son:
 * IR1 = Intensidad que para por R1
@@ -162,7 +162,7 @@ Al ser un circuito en paralelo con tres resistencias los datos a obtener son:
 * It = Intensidad total
 * VT = El voltaje que cae en cada resistencia
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/Ley_Ohm.png)
 
 La ley de Ohm permite obtener la resistencia, el voltaje o la corriente de la siguiente manera:
 * Conociendo el voltaje y la intencidad podemos determinar la resistecia
@@ -172,25 +172,27 @@ La ley de Ohm permite obtener la resistencia, el voltaje o la corriente de la si
 6.	Desarrollo de la Aplicacion
 Interfas de inicio
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/31.PNG)
+
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/32.PNG)
 
 Apartado para calcular un circuito en serie
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/33.PNG)
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/34.PNG)
 
 Apartado para calcular un circuito en paralelo
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/35.PNG)
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/36.PNG)
 
 Apartado para calcular la ley de Ohm
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/37.PNG)
 
-![]()
+![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/38.PNG)
 
 7.	Conclucion
 La aplicacion desarrollada cumple con lo planeado, su ejecucion en un dispocitivo android es correcta y los resultados obtenidos por medio de la misma no difieren de la realidad, podemos asegurar que la aplicacion funciona y es fiable.
