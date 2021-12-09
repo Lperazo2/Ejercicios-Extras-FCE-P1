@@ -1,5 +1,5 @@
-
-1.	Tema:
+()
+1.	Tema
 Diseño de circuitos mixtos y toma de mediciones en NGSPICE
 
 2.	Objetivo general:
