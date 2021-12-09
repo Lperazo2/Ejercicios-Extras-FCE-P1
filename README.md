@@ -169,26 +169,27 @@ La ley de Ohm permite obtener la resistencia, el voltaje o la corriente de la si
 * Conociendo el voltaje y la resistencia podemos determinar la intensidad 
 * Conociendo la resistencia y la intencidad podemos determinar el voltaje  
 
-6.	Desarrollo de la Aplicacion
-Interfas de inicio
+6.- Desarrollo de la Aplicacion
+
+# Interfas de inicio
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/31.PNG)
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/32.PNG)
 
-Apartado para calcular un circuito en serie
+# Apartado para calcular un circuito en serie
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/33.PNG)
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/34.PNG)
 
-Apartado para calcular un circuito en paralelo
+# Apartado para calcular un circuito en paralelo
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/35.PNG)
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/36.PNG)
 
-Apartado para calcular la ley de Ohm
+# Apartado para calcular la ley de Ohm
 
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/37.PNG)
 
