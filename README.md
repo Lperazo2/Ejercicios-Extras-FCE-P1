@@ -196,6 +196,6 @@ La ley de Ohm permite obtener la resistencia, el voltaje o la corriente de la si
 ![](https://github.com/Lperazo2/Ejercicios-Extras-FCE-P1/blob/68e4c69053dd9998d453c2fe5fce96a763b68b62/38.PNG)
 
 7.	Conclucion
-* La aplicacion desarrollada cumple con lo planeado, su ejecucion en un dispocitivo android es correcta y los resultados obtenidos por medio de la misma no difieren de la realidad, podemos asegurar que la aplicacion funciona y es fiable.
+* La aplicacion desarrollada cumple con lo planeado, su ejecucion en un dispositivo android es correcta y los resultados obtenidos por medio de la misma no difieren de la realidad, podemos asegurar que la aplicacion funciona y es fiable.
 
 
